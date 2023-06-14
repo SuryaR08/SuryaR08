@@ -22,4 +22,4 @@ I'm constantly seeking new opportunities to learn and grow in the dynamic field 
 
 Let's connect and collaborate on exciting projects! 🌟
 
-[LinkedIn](https://www.linkedin.com/in/surya-r-a26122236/) | [Portfolio](#) | [Email](suryaraja8903@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/surya-r-a26122236/) | [Portfolio](https://suryar08.github.io/Portfolio-/) | [Email](suryaraja8903@gmail.com)
