@@ -2,7 +2,7 @@
 
 👋 Hello! I'm **Surya R**, a passionate and dedicated professional currently pursuing my Bachelor of Technology in Artificial Intelligence and Data Science at Chennai Institute of Technology. With a keen interest in full stack web development, data science, and machine learning, I strive to unlock the power of data and technology to drive innovation and make impactful contributions.
 
-![Profile Animation](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+
 
 ## 🚀 Skills and Expertise
 
